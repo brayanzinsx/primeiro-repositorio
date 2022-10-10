@@ -2,4 +2,4 @@
 Primeiros codigos HTML
 
 
-https://brayanzinsx.github.io/primeiro-repositorio/https://brayanzinsx.github.io/primeiro-repositorio/
+https://brayanzinsx.github.io/primeiro-repositorio/
